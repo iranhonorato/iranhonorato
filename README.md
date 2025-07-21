@@ -35,7 +35,7 @@ I'm currently studying Computer Science at Insper – Instituto de Pesquisa e En
 
 # Socials:
 <div>
-  <a href="iranilsonhonorato88@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:iranilsonhonorato88@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   
