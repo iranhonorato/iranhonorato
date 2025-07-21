@@ -1,5 +1,6 @@
 # About Me:
-Hi there! My name is Iranilson Honorato, but you can call me Iran.
+Hi there! My name is Iranilson Honorato - but you can call me Iran.
+
 I'm a highly focused person who doesn’t measure efforts when it comes to achieving my goals. Throughout my journey, I’ve proven myself in various challenges such as scientific olympiads, programming competitions, and freelance projects.
 
 Currently, I'm looking to expand my skill set by learning new programming languages and tools, so I can become even more capable of solving real-world problems. I'm especially interested in becoming proficient in web development, data science, artificial intelligence and blockchain technology.
