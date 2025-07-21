@@ -21,8 +21,13 @@ I'm currently studying Computer Science at Insper – Instituto de Pesquisa e En
 ![Iran's GitHub stats](https://github-readme-stats.vercel.app/api?username=iranhonorato&theme=tokyonight&show_icons=true)
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Iran%20Honorato&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
-# Socials: 
-<div> 
-  <a href = "mailto:iranilsonhonorato88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/iran-honorato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+# Socials:
+<div>
+  <a href="mailto:iranilsonhonorato88@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/iran-honorato/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
