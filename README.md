@@ -19,6 +19,7 @@ I'm currently studying Computer Science at Insper – Instituto de Pesquisa e En
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
