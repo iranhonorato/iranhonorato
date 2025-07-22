@@ -7,17 +7,28 @@ Currently, I'm looking to expand my skill set by learning new programming langua
 
 I'm currently studying Computer Science at Insper – Instituto de Pesquisa e Ensino.
 
+# Languages: 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000?&logo=NoSQL)
 
-# Skills:
-<div style="display: flex; flex-wrap: wrap; gap: 20; align-items: center; margin-top: 10;">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
-  <img height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="PostgreSQL">
-  <img height="30" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-HD-Image.png" alt="MongoDB">
-</div>
+# Technologies:
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
+![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=Node.JS)
+![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=Fastify)
+![Axios](https://img.shields.io/badge/-Axios-000?&logo=Axios)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 
 # Stats:
