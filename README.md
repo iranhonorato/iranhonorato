@@ -25,6 +25,7 @@ I'm currently studying Computer Science at Insper – Instituto de Pesquisa e En
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
 ![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=Node.JS)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=Fastify)
 ![Axios](https://img.shields.io/badge/-Axios-000?&logo=Axios)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
