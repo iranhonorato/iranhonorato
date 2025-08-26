@@ -35,6 +35,18 @@ I'm currently studying Computer Science at Insper – Instituto de Pesquisa e En
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
+# Stats:
+<div style="display: flex; flex-direction: column;">
+  <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iranhonorato&theme=tokyonight&show_icons=true"/>
+  </br>
+  <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=iranhonorato&theme=tokyonight&show_icons=true"/>
+  </br>
+  <br>
+    <img src="https://nirzak-streak-stats.vercel.app?user=iranhonorato&theme=tokyonight&short_numbers=true&mode=weekly"/>
+  </br>
+</div>
 
 
 # Socials:
