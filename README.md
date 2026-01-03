@@ -7,34 +7,32 @@ Currently, I'm looking to expand my skill set by learning new programming langua
 
 I'm currently studying Computer Science at Insper – Instituto de Pesquisa e Ensino.
 
-# Languages: 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) 
-![Java](https://img.shields.io/badge/-Java-000?logo=Java)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
-![NoSQL](https://img.shields.io/badge/-NoSQL-000?&logo=NoSQL)
+# Languages and Technologies: 
+## Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-# Technologies:
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
-![Node.JS](https://img.shields.io/badge/-Node.JS-000?&logo=Node.JS)
-![Next.JS](https://img.shields.io/badge/-Next.JS-000?&logo=Next.JS)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=Fastify)
-![Axios](https://img.shields.io/badge/-Axios-000?&logo=Axios)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+## Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005850?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+## Data Science & Automation
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Stats:
 <div style="display: flex; flex-direction: column;">
@@ -51,6 +49,6 @@ I'm currently studying Computer Science at Insper – Instituto de Pesquisa e En
 
 
 # Socials:
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iranilsonhonorato88@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iran-honorato/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iran-honorato/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iranilsonhonorato88@gmail.com)
 
