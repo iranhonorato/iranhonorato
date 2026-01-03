@@ -35,17 +35,9 @@ I'm currently studying Computer Science at Insper – Instituto de Pesquisa e En
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Stats:
-<div style="display: flex; flex-direction: column;">
-  <!-- <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iranhonorato&theme=tokyonight&show_icons=true"/>
-  </br>
-  <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=iranhonorato&theme=tokyonight&show_icons=true"/>
-  </br> -->
-  <br>
-    <img src="https://nirzak-streak-stats.vercel.app?user=iranhonorato&theme=tokyonight&short_numbers=true&mode=weekly"/>
-  </br>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iranhonorato&layout=compact&theme=tokyonight)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=iranhonorato&theme=tokyonight&short_numbers=true&mode=weekly)
+
 
 
 # Socials:
